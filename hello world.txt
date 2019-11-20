@@ -1,4 +1,6 @@
-print("Hello world!");
-Print ("Hello everybody");
-Print ("Hello")
-print ("Hello my dear friend")
+<<<<<<< HEAD
+print("Hello world!;");
+Print ("Hello everybody;");
+Print ("Hello;")
+print ("Hello my dear friend;")
+
